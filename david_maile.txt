@@ -1,0 +1,43 @@
+
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'Sydwell Sewela@MaHQuests-Dave.(none)')
+
+C:\Users\Sydwell Sewela\Desktop\Java Projects\cmder\Work\project-one (david.maile -> origin)it commit -m "david.maile has done some work here
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'Sydwell Sewela@MaHQuests-Dave.(none)')
+
+C:\Users\Sydwell Sewela\Desktop\Java Projects\cmder\Work\project-one (david.maile -> origin)it commit -m "david.maile has done some work here
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'Sydwell Sewela@MaHQuests-Dave.(none)')
+
+C:\Users\Sydwell Sewela\Desktop\Java Projects\cmder\Work\project-one (david.maile -> origin)
+git status
+
+
+
+a
+``
